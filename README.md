@@ -1,9 +1,6 @@
 <div align="center">
 
 # Hi, I'm **Xenon** 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=xenon_d62&color=00b4d8&style=flat-square&label=Views)
-
 **AI Agent Builder** • **Web3 Enthusiast** • **Jakarta, Indonesia** 🇮🇩
 
 Saya suka membangun AI agents yang punya identitas sendiri, aman, dan bisa dipercaya.
